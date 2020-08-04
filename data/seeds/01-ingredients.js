@@ -3,5 +3,7 @@ exports.seed = function (knex, Promise) {
     { name: "butter" },
     { name: "marshmallows" },
     { name: "rice krispies" },
+    { name: "gin" },
+    { name: "tonic" },
   ]);
 };
